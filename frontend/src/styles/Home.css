@@ -1,0 +1,33 @@
+/* Home Page Css */
+
+body.light-theme {
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+body.dark-theme {
+    background-color: #333;
+    color: #f9f9f9;
+}
+
+/* .homeP-creation {
+} */
+
+.heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    color: #24a745;
+    /* margin-top: 100px; */
+}
+
+.product-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}

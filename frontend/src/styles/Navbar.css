@@ -1,0 +1,82 @@
+
+/* Navbar.css */
+body.light-theme {
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0px;
+}
+
+body.dark-theme {
+    background-color: #333;
+    color: #f9f9f9;
+    margin: 0px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 1rem 2rem;
+    margin: 0px;
+    height: 70px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+.navbar.light {
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.navbar.dark {
+    background-color: #333;
+    color: #f9f9f9;
+    box-shadow: 0 0 3px white;
+}
+
+.website-name {
+    font-size: 1.5rem;
+    color: #28a745;
+    font-style: bold;
+}
+
+.navbar-center {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.search-form {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 400px;
+    margin: 10px;
+    box-shadow: 0 0 3px white;
+
+}
+
+.search-input {
+    padding: 0.5rem;
+    border: 1px solid #28a745;
+    border-radius: 4px 0 0 4px;
+    outline: none;
+    width: 100%;
+}
+
+.navbar-right button {
+    margin-left: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.theme-toggle {
+    background-color: #007bff;
+    color: white;
+}
+
+.add-product-btn {
+    background-color: #28a745;
+    color: white;
+}
