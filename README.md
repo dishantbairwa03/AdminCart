@@ -9,9 +9,7 @@ This is an administration-side web application that simplifies product managemen
 ✅ A sleek modal opens when updating a product.
 ✅ Real-time feedback with green popup messages for actions like:
 
-"Product Updated"
-"Product Deleted"
-"New Product Created"
+"Product Updated" | "Product Deleted" | "New Product Created".
 # 🛠️ Tech Stack:
 MongoDB | Express.js | React.js | Node.js
 
