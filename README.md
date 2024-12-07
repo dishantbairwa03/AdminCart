@@ -1,8 +1,8 @@
-#AdminCart
+# AdminCart
 
-🚀 Admin Dashboard Application Built with MERN Stack 🚀
+# 🚀 Admin Dashboard Application Built with MERN Stack 🚀
 
-🎯 About the Project:
+# 🎯 About the Project:
 This is an administration-side web application that simplifies product management. The features include:
 ✅ Add, delete, and modify products.
 ✅ Toggle between Dark Mode and Light Mode for a personalized experience.
@@ -12,10 +12,10 @@ This is an administration-side web application that simplifies product managemen
 "Product Updated"
 "Product Deleted"
 "New Product Created"
-🛠️ Tech Stack:
+# 🛠️ Tech Stack:
 MongoDB | Express.js | React.js | Node.js
 
-💻 Key Highlights:
+# 💻 Key Highlights:
 
 User-friendly and intuitive admin interface.
 Dynamic feedback to improve user engagement.
