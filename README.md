@@ -4,9 +4,13 @@
 
 # 🎯 About the Project:
 This is an administration-side web application that simplifies product management. The features include:
+
 ✅ Add, delete, and modify products.
+
 ✅ Toggle between Dark Mode and Light Mode for a personalized experience.
+
 ✅ A sleek modal opens when updating a product.
+
 ✅ Real-time feedback with green popup messages for actions like:
 
 "Product Updated" | "Product Deleted" | "New Product Created".
