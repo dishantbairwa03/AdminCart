@@ -19,6 +19,6 @@ MongoDB | Express.js | React.js | Node.js
 
 # 💻 Key Highlights:
 
-User-friendly and intuitive admin interface.
-Dynamic feedback to improve user engagement.
-Modern design with dark/light theme options.
+> User-friendly and intuitive admin interface.
+> Dynamic feedback to improve user engagement.
+> Modern design with dark/light theme options.
